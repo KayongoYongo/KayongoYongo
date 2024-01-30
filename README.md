@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayongoyongo&label=Profile%20views&color=0e75b6&style=flat" alt="kayongoyongo" /> </p>
 
-- 🔭 I’m currently working on **Discord and Telegram Bots**
+- 🔭 I’m currently working on **Simple django projects**
 
-- 🌱 I’m currently learning **Django and NodeJS**
+- 🌱 I’m currently learning **Django and Javascript**
 
 - 👯 I’m looking to collaborate on **Django and Javascript**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@kayongoyongo](https://medium.com/@kayongoyongo)
 
-- 💬 Ask me about **python, NodeJS and APIs**
+- 💬 Ask me about **python, Django and APIs**
 
 - 📫 How to reach me **sksnammie10@gmail.com**
 
